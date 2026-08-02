@@ -77,16 +77,6 @@ Aspiring to grow into a **Senior AI & Data Science Engineer** — building intel
 
 <br/>
 
-## 🏆 GitHub Trophies
-
----
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Aiswarya1511&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" width="100%"/>
-</div>
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 ---
@@ -264,16 +254,6 @@ Data analytics tasks and deliverables completed during the CodTech IT Solutions 
 
 🔥 Maintaining a **600+ day streak on Duolingo** — proof that consistency is my superpower!
 
-</div>
-
-<br/>
-
-## 🌍 Visitor Map
-
----
-
-<div align="center">
-<img src="https://profile-counter.glitch.me/Aiswarya1511/count.svg" width="100%"/>
 </div>
 
 <br/>
