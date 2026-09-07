@@ -9,7 +9,7 @@
 <br/><br/>
 
 <a href="mailto:aiswarya06211@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/aiswarya1511//"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/aiswarya1511"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/Aiswarya1511"><img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://leetcode.com/u/RAiswarya/"><img src="https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 
@@ -272,7 +272,7 @@ Data analytics tasks and deliverables completed during the CodTech IT Solutions 
 </td>
 <td align="center" width="33%">
 <b>💼 LinkedIn</b><br/>
-<a href="https://www.linkedin.com/in/aiswarya1511//">Aiswarya R</a>
+<a href="https://www.linkedin.com/in/aiswarya1511">Aiswarya R</a>
 </td>
 <td align="center" width="33%">
 <b>🧩 LeetCode</b><br/>
