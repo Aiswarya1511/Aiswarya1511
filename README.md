@@ -23,7 +23,7 @@
 
 <br/>
 
-> **"Discipline is choosing between what you want now and what you want most."**
+> <h3>💭 <em>"Discipline is choosing between what you want now and what you want most."</em></h3>
 
 </div>
 
@@ -33,16 +33,16 @@
 
 I'm a **final-year B.Tech student specializing in Artificial Intelligence & Data Science** at VSB College of Engineering Technical Campus.
 
-I enjoy building practical solutions that connect **data, machine learning, automation, and software development**.
+I enjoy building practical solutions that combine **data, machine learning, automation, and software development**.
 
-My interests include:
+### What I Work With
 
-* 🤖 Machine Learning & Artificial Intelligence
+* 🤖 Artificial Intelligence & Machine Learning
 * 📊 Data Analytics & Visualization
 * 🐍 Python & ☕ Java Development
 * 🗄️ SQL & Data Processing
 * 🌐 AI-powered Web Applications
-* ☁️ Cloud & AI Deployment
+* ☁️ Cloud Technologies
 * 🔍 Problem Solving & DSA
 
 ```text
@@ -61,45 +61,54 @@ AI + Data + Software
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 👩‍💻 Programming
+### 👩‍💻 Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,mysql,html,css" alt="Programming Skills"/>
-</p>
+[**Python**](https://www.python.org/) ·
+[**Java**](https://www.java.com/) ·
+[**SQL**](https://www.mysql.com/) ·
+[**HTML**](https://developer.mozilla.org/en-US/docs/Web/HTML) ·
+[**CSS**](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
-### 🤖 AI / Machine Learning
+### 🤖 AI & Machine Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,sklearn,pytorch" alt="AI ML Skills"/>
-</p>
+[**Scikit-Learn**](https://scikit-learn.org/) ·
+**Machine Learning** ·
+**Data Preprocessing** ·
+**Feature Engineering** ·
+**Model Evaluation** ·
+**Deep Learning**
 
-`Machine Learning` · `Scikit-Learn` · `Data Preprocessing` · `Feature Engineering` · `Model Evaluation`
+### 📊 Data & Analytics
 
-### 📊 Data & Visualization
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-</p>
-
-`Pandas` · `NumPy` · `Plotly` · `Dash` · `Power BI` · `SQL`
+[**Pandas**](https://pandas.pydata.org/) ·
+[**NumPy**](https://numpy.org/) ·
+[**Plotly**](https://plotly.com/) ·
+[**Dash**](https://dash.plotly.com/) ·
+[**Power BI**](https://www.microsoft.com/en-us/power-platform/products/power-bi) ·
+[**MySQL**](https://www.mysql.com/)
 
 ### 🌐 Development & Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,flask,react" alt="Development Tools"/>
-</p>
-
-`Git` · `GitHub` · `VS Code` · `Jupyter Notebook` · `Flask` · `React`
+[**Git**](https://git-scm.com/) ·
+[**GitHub**](https://github.com/) ·
+[**VS Code**](https://code.visualstudio.com/) ·
+[**Jupyter**](https://jupyter.org/) ·
+[**Flask**](https://flask.palletsprojects.com/) ·
+[**React**](https://react.dev/)
 
 ### ☁️ Currently Exploring
 
-`AWS` · `MLOps` · `Deep Learning` · `Cloud Deployment` · `Advanced SQL`
+[**AWS**](https://aws.amazon.com/) ·
+**MLOps** ·
+**Deep Learning** ·
+**Cloud Deployment** ·
+**Advanced SQL**
 
 ---
 
-# 💼 Experience
+# 💼 Professional Experience
 
 | Organization              | Role                        | Focus                       | Year |
 | ------------------------- | --------------------------- | --------------------------- | ---- |
@@ -112,61 +121,59 @@ AI + Data + Software
 
 # 🚀 Featured Projects
 
-## 🏠 Smart Home Automation
+### 🏠 Smart Home Automation
 
 <a href="https://github.com/Aiswarya1511/Smart_Home">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+View Project →
 </a>
 
 An IoT-based home automation system designed for **remote control, real-time monitoring, and energy management** using sensors, microcontrollers, and cloud connectivity.
 
-**Tech:** `IoT` `Sensors` `Microcontrollers` `Cloud`
+**Technologies:** `IoT` · `Sensors` · `Microcontrollers` · `Cloud`
 
 ---
 
-## 📊 Sales Analytics Engine
+### 📊 Sales Analytics Engine
 
 <a href="https://github.com/Aiswarya1511/Sales_Data_Analysis">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+View Project →
 </a>
 
-A data analytics application that processes sales information and transforms transactional data into **interactive dashboards and business insights**.
+A data analytics application that processes sales information and transforms transactional data into **interactive dashboards and actionable business insights**.
 
-**Tech:** `Python` `Pandas` `Plotly` `Dash`
+**Technologies:** `Python` · `Pandas` · `Plotly` · `Dash`
 
 ---
 
-## 🕵️ Fake File Detection
+### 🕵️ Fake File Detection
 
 <a href="https://github.com/Aiswarya1511/FAKE_FILE_DETECTION">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+View Project →
 </a>
 
 A machine-learning based security project focused on identifying potentially manipulated or suspicious documents through automated analysis.
 
-**Tech:** `Python` `Machine Learning` `Security`
+**Technologies:** `Python` · `Machine Learning` · `Security`
 
 ---
 
-## 🤖 Smart AI Web Portal
+### 🤖 Smart AI Web Portal
 
 <a href="https://github.com/Aiswarya1511/SMART_AI_WEBSITE">
-<img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white"/>
+View Project →
 </a>
 
-An AI-powered web platform integrating intelligent data-processing features through a modern web interface and backend services.
+An AI-powered web platform integrating intelligent data-processing features through a modern frontend and backend architecture.
 
-**Tech:** `Python` `Flask` `React` `AI`
+**Technologies:** `Python` · `Flask` · `React` · `AI`
 
 ---
 
-# 📈 GitHub Analytics
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Aiswarya1511&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true" width="49%" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiswarya1511&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" width="49%" alt="Top Languages"/>
+<img src="https://streak-stats.demolab.com?user=Aiswarya1511&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak"/>
 
 </div>
 
@@ -174,7 +181,7 @@ An AI-powered web platform integrating intelligent data-processing features thro
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aiswarya1511&theme=tokyonight&hide_border=true" width="70%" alt="GitHub Streak"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiswarya1511&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -186,7 +193,7 @@ An AI-powered web platform integrating intelligent data-processing features thro
 * 🚀 Selected among the **Top 100** in a National-Level Space Quiz
 * 🎤 **Event Coordinator** for a college technical symposium
 * 🧩 Active problem solving through **LeetCode**
-* 🔥 **700+ day Duolingo streak** — consistency outside coding too!
+* 🔥 **700+ day Duolingo streak** — consistency beyond coding
 
 ---
 
@@ -200,31 +207,31 @@ An AI-powered web platform integrating intelligent data-processing features thro
 
 ---
 
-# 🎯 2026 Learning Goals
+# 🎯 Current Focus
 
 ```text
-☑ Strengthen Python & Java
-☑ Improve SQL & Data Structures
-☑ Build practical ML projects
-☑ Develop Power BI dashboards
-☐ Deepen Deep Learning
-☐ Learn AWS deployment
-☐ Explore MLOps
-☐ Contribute to Open Source
+01  Strengthening Python & Java
+02  Improving SQL & Data Structures
+03  Building practical Machine Learning projects
+04  Developing Power BI dashboards
+05  Exploring Deep Learning
+06  Learning AWS & Cloud Deployment
+07  Understanding MLOps
+08  Contributing to Open Source
 ```
 
 ---
 
-# 💡 What I Like Building
+# 💡 Areas of Interest
 
 <div align="center">
 
-|    🤖 AI   |      📊 Data      | 🌐 Applications |
-| :--------: | :---------------: | :-------------: |
-|  ML Models |     Analytics     |    Flask APIs   |
-|     NLP    |     Dashboards    |    React Apps   |
-| Prediction |   Visualization   |   AI Platforms  |
-| Automation | Business Insights |   Data Systems  |
+| 🤖 Artificial Intelligence |    📊 Data Science    | 🌐 Software Development |
+| :------------------------: | :-------------------: | :---------------------: |
+|      Machine Learning      |     Data Analytics    |        Flask APIs       |
+|        Deep Learning       |   Data Visualization  |    React Applications   |
+|       AI Applications      |        Power BI       |     AI Web Platforms    |
+|         Automation         | Business Intelligence |       Data Systems      |
 
 </div>
 
@@ -250,7 +257,7 @@ An AI-powered web platform integrating intelligent data-processing features thro
 
 ### ⭐ Thanks for visiting my profile!
 
-**If you find something useful here, feel free to explore my repositories.**
+**Feel free to explore my repositories and connect with me.**
 
 </div>
 
