@@ -3,6 +3,7 @@
 
 <br/>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=AI+%26+Data+Science+Engineer;Machine+Learning+Enthusiast;IoT+%26+Cloud+Explorer;Turning+Data+Into+Decisions" alt="Typing SVG"/>
 
 <br/><br/>
 
