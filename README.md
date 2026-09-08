@@ -62,7 +62,7 @@ I'm focused on strengthening my skills in:
 
 ### ⚡ MY APPROACH
 
-```text
+``text
    LEARN
      ↓
    BUILD
@@ -279,4 +279,4 @@ Web Development   Automation   Data Systems
 
 Let's build something meaningful with data and AI.
 
-</div> ```
+</div> ``
