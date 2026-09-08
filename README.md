@@ -1,32 +1,36 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:080D24,50:151A45,100:6C3BFF&amp;height=160&amp;section=header&amp;text=Aiswarya%20R&amp;fontSize=48&amp;fontColor=FFFFFF&amp;fontAlignY=40&amp;desc=AI%20%26%20Data%20Science%20Engineer&amp;descSize=20&amp;descAlignY=67&amp;descColor=C9C2FF" width="100%" alt="Aiswarya R"/>
+![Aiswarya R](https://capsule-render.vercel.app/api?type=waving%26color=0:080D24,50:151A45,100:6C3BFF%26height=160%26section=header%26text=Aiswarya%20R%26fontSize=48%26fontColor=FFFFFF%26fontAlignY=40%26desc=AI%20%26%20Data%20Science%20Engineer%26descSize=20%26descAlignY=67%26descColor=C9C2FF)
 
-### `DATA`   |   `INTELLIGENCE`   |   `IMPACT`
+# Aiswarya R
+
+### AI & Data Science Engineer
+
+`DATA`   |   `INTELLIGENCE`   |   `IMPACT`
 
 <br/>
 
 <a href="mailto:aiswarya06211@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 &nbsp;
 <a href="https://www.linkedin.com/in/aiswarya1511">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 &nbsp;
 <a href="https://github.com/Aiswarya1511">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 &nbsp;
 <a href="https://leetcode.com/u/RAiswarya/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
 
-<br/><br/>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Aiswarya1511&amp;style=flat-square&amp;color=7C5CFC&amp;label=PROFILE+VIEWS" alt="Profile Views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=Aiswarya1511\&style=flat-square\&color=7C5CFC\&label=PROFILE+VIEWS)
 
-<br/><br/>
+<br><br>
 
 > ### 💭 *"Discipline is choosing between what you want now and what you want most."*
 
@@ -79,8 +83,6 @@ I'm focused on strengthening my skills in:
    IMPACT
 ```
 
-<br/>
-
 **Turning data into
 meaningful solutions.**
 
@@ -94,6 +96,7 @@ meaningful solutions.**
 
 <table>
 <tr>
+
 <td width="50%">
 
 ### 🤖 Artificial Intelligence
@@ -115,9 +118,11 @@ meaningful solutions.**
 * Data Processing
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%">
 
 ### 🌐 Development
@@ -139,6 +144,7 @@ meaningful solutions.**
 * IoT Systems
 
 </td>
+
 </tr>
 </table>
 
@@ -147,11 +153,16 @@ meaningful solutions.**
 # 🛠️ TECHNICAL SKILLS
 
 <table>
+
 <tr>
 <td width="20%"><b>Programming</b></td>
 <td>
 
-<a href="https://www.python.org/">Python</a> · <a href="https://www.java.com/">Java</a> · <a href="https://www.mysql.com/">SQL</a> · <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a> · <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
+[Python](https://www.python.org/) ·
+[Java](https://www.java.com/) ·
+[SQL](https://www.mysql.com/) ·
+[HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) ·
+[CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
 </td>
 </tr>
@@ -160,7 +171,7 @@ meaningful solutions.**
 <td><b>AI & ML</b></td>
 <td>
 
-<a href="https://scikit-learn.org/">Scikit-Learn</a> ·
+[Scikit-Learn](https://scikit-learn.org/) ·
 Machine Learning ·
 Deep Learning ·
 NLP ·
@@ -174,7 +185,12 @@ Feature Engineering
 <td><b>Data & Analytics</b></td>
 <td>
 
-<a href="https://pandas.pydata.org/">Pandas</a> · <a href="https://numpy.org/">NumPy</a> · <a href="https://plotly.com/">Plotly</a> · <a href="https://dash.plotly.com/">Dash</a> · <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi">Power BI</a> · <a href="https://www.mysql.com/">MySQL</a>
+[Pandas](https://pandas.pydata.org/) ·
+[NumPy](https://numpy.org/) ·
+[Plotly](https://plotly.com/) ·
+[Dash](https://dash.plotly.com/) ·
+[Power BI](https://www.microsoft.com/en-us/power-platform/products/power-bi) ·
+[MySQL](https://www.mysql.com/)
 
 </td>
 </tr>
@@ -183,7 +199,10 @@ Feature Engineering
 <td><b>Development</b></td>
 <td>
 
-<a href="https://flask.palletsprojects.com/">Flask</a> · <a href="https://react.dev/">React</a> · <a href="https://git-scm.com/">Git</a> · <a href="https://github.com/">GitHub</a>
+[Flask](https://flask.palletsprojects.com/) ·
+[React](https://react.dev/) ·
+[Git](https://git-scm.com/) ·
+[GitHub](https://github.com/)
 
 </td>
 </tr>
@@ -192,7 +211,8 @@ Feature Engineering
 <td><b>Tools</b></td>
 <td>
 
-<a href="https://code.visualstudio.com/">VS Code</a> · <a href="https://jupyter.org/">Jupyter Notebook</a>
+[VS Code](https://code.visualstudio.com/) ·
+[Jupyter Notebook](https://jupyter.org/)
 
 </td>
 </tr>
@@ -201,7 +221,7 @@ Feature Engineering
 <td><b>Exploring</b></td>
 <td>
 
-<a href="https://aws.amazon.com/">AWS</a> ·
+[AWS](https://aws.amazon.com/) ·
 MLOps ·
 Cloud Deployment ·
 Advanced SQL ·
@@ -209,6 +229,7 @@ Deep Learning
 
 </td>
 </tr>
+
 </table>
 
 ---
@@ -216,6 +237,7 @@ Deep Learning
 # 💼 PROFESSIONAL EXPERIENCE
 
 <table>
+
 <tr>
 
 <td width="25%">
@@ -256,7 +278,7 @@ Data Processing & Analytics
 
 <td width="25%">
 
-### 🟣 Emglitz
+### 🟣 Emglitz Technologies
 
 **IoT In-Plant Trainee**
 
@@ -267,6 +289,7 @@ Sensors & Embedded Systems
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -274,6 +297,7 @@ Sensors & Embedded Systems
 # 🚀 FEATURED PROJECTS
 
 <table>
+
 <tr>
 
 <td width="50%">
@@ -286,11 +310,9 @@ IoT-based home automation system designed for **remote control, real-time monito
 
 `IoT` · `Sensors` · `Cloud`
 
-<br/>
+<br>
 
-<a href="https://github.com/Aiswarya1511/Smart_Home">
-<img src="https://img.shields.io/badge/View_Project-6C3BFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Project"/>
-</a>
+[![View Project](https://img.shields.io/badge/View_Project-6C3BFF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Aiswarya1511/Smart_Home)
 
 </td>
 
@@ -304,11 +326,9 @@ Interactive analytical dashboard that processes transactional sales data and tra
 
 `Python` · `Pandas` · `Plotly` · `Dash`
 
-<br/>
+<br>
 
-<a href="https://github.com/Aiswarya1511/Sales_Data_Analysis">
-<img src="https://img.shields.io/badge/View_Project-6C3BFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Project"/>
-</a>
+[![View Project](https://img.shields.io/badge/View_Project-6C3BFF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Aiswarya1511/Sales_Data_Analysis)
 
 </td>
 
@@ -326,11 +346,9 @@ Machine-learning based security utility designed to identify potentially manipul
 
 `Python` · `Machine Learning` · `Security`
 
-<br/>
+<br>
 
-<a href="https://github.com/Aiswarya1511/FAKE_FILE_DETECTION">
-<img src="https://img.shields.io/badge/View_Project-6C3BFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Project"/>
-</a>
+[![View Project](https://img.shields.io/badge/View_Project-6C3BFF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Aiswarya1511/FAKE_FILE_DETECTION)
 
 </td>
 
@@ -344,15 +362,14 @@ AI-powered web platform integrating intelligent data-processing capabilities thr
 
 `Python` · `Flask` · `React` · `AI`
 
-<br/>
+<br>
 
-<a href="https://github.com/Aiswarya1511/SMART_AI_WEBSITE">
-<img src="https://img.shields.io/badge/View_Project-6C3BFF?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="View Project"/>
-</a>
+[![View Project](https://img.shields.io/badge/View_Project-6C3BFF?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Aiswarya1511/SMART_AI_WEBSITE)
 
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -361,11 +378,11 @@ AI-powered web platform integrating intelligent data-processing capabilities thr
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aiswarya1511&amp;theme=tokyonight&amp;hide_border=true&amp;background=080D24&amp;ring=7C5CFC&amp;fire=FFB347&amp;currStreakLabel=C9C2FF&amp;sideLabels=C9C2FF&amp;dates=9AA4C7" width="80%" alt="GitHub Streak"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=Aiswarya1511\&theme=tokyonight\&hide_border=true\&background=080D24\&ring=7C5CFC\&fire=FFB347\&currStreakLabel=C9C2FF\&sideLabels=C9C2FF\&dates=9AA4C7)
 
-<br/><br/>
+<br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiswarya1511&amp;bg_color=080D24&amp;color=C9C2FF&amp;line=7C5CFC&amp;point=FFFFFF&amp;area_color=6C3BFF&amp;area=true&amp;hide_border=true&amp;custom_title=Aiswarya%20R%20-%20Contribution%20Activity" width="95%" alt="GitHub Activity Graph"/>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aiswarya1511\&bg_color=080D24\&color=C9C2FF\&line=7C5CFC\&point=FFFFFF\&area_color=6C3BFF\&area=true\&hide_border=true\&custom_title=Aiswarya%20R%20-%20Contribution%20Activity)
 
 </div>
 
@@ -374,6 +391,7 @@ AI-powered web platform integrating intelligent data-processing capabilities thr
 # 🏆 ACHIEVEMENTS
 
 <table>
+
 <tr>
 
 <td width="50%">
@@ -393,6 +411,7 @@ AI-powered web platform integrating intelligent data-processing capabilities thr
 </td>
 
 </tr>
+
 </table>
 
 ---
@@ -442,22 +461,22 @@ AI-powered web platform integrating intelligent data-processing capabilities thr
 <div align="center">
 
 <a href="mailto:aiswarya06211@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
 </a>
 
 <a href="https://www.linkedin.com/in/aiswarya1511">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
 <a href="https://github.com/Aiswarya1511">
-<img src="https://img.shields.io/badge/GitHub-Aiswarya1511-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Aiswarya1511-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 <a href="https://leetcode.com/u/RAiswarya/">
-<img src="https://img.shields.io/badge/LeetCode-RAiswarya-FFA116?style=for-the-badge&amp;logo=leetcode&amp;logoColor=white" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-RAiswarya-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode">
 </a>
 
-<br/><br/>
+<br><br>
 
 ### ⭐ Thanks for visiting my profile!
 
@@ -469,6 +488,6 @@ AI-powered web platform integrating intelligent data-processing capabilities thr
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:080D24,50:151A45,100:6C3BFF&amp;height=120&amp;section=footer" width="100%" alt="Footer"/>
+![Footer](https://capsule-render.vercel.app/api?type=waving%26color=0:080D24,50:151A45,100:6C3BFF%26height=120%26section=footer)
 
 </div>
