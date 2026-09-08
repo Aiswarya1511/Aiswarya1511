@@ -1,252 +1,452 @@
 <div align="center">
 
-# 👋 Hi, I'm Aiswarya R
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D24,50:151A45,100:6C3BFF&height=160&section=header&text=Aiswarya%20R&fontSize=48&fontColor=FFFFFF&fontAlignY=40&desc=AI%20%26%20Data%20Science%20Engineer&descSize=20&descAlignY=67&descColor=C9C2FF" width="100%" alt="Aiswarya R"/>
 
-### AI & Data Science Engineer | Machine Learning | Data Analytics
-
-<p>
-  <a href="mailto:aiswarya06211@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/aiswarya1511">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Aiswarya1511">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="https://leetcode.com/u/RAiswarya/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-</p>
-
-<img src="https://komarev.com/ghpvc/?username=Aiswarya1511&style=flat-square&color=6C63FF&label=PROFILE+VIEWS" alt="Profile Views"/>
+### `DATA`   |   `INTELLIGENCE`   |   `IMPACT`
 
 <br/>
 
-> <h3>💭 <em>"Discipline is choosing between what you want now and what you want most."</em></h3>
+<a href="mailto:aiswarya06211@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/aiswarya1511">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="https://github.com/Aiswarya1511">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+&nbsp;
+<a href="https://leetcode.com/u/RAiswarya/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Aiswarya1511&style=flat-square&color=7C5CFC&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+<br/><br/>
+
+> ### 💭 *"Discipline is choosing between what you want now and what you want most."*
 
 </div>
 
 ---
 
-## 🧠 About Me
+## 🧠 ABOUT ME
 
-I'm a **final-year B.Tech student specializing in Artificial Intelligence & Data Science** at VSB College of Engineering Technical Campus.
+<table>
+<tr>
+<td width="65%">
 
-I enjoy building practical solutions that combine **data, machine learning, automation, and software development**.
+I'm a **final-year B.Tech student specializing in Artificial Intelligence & Data Science** at **VSB College of Engineering Technical Campus (Anna University)**.
 
-### What I Work With
+I enjoy building practical solutions that connect **data, machine learning, automation, and software development**.
 
-* 🤖 Artificial Intelligence & Machine Learning
-* 📊 Data Analytics & Visualization
-* 🐍 Python & ☕ Java Development
-* 🗄️ SQL & Data Processing
-* 🌐 AI-powered Web Applications
-* ☁️ Cloud Technologies
-* 🔍 Problem Solving & DSA
+### 🎓 Education
+
+**B.Tech – Artificial Intelligence & Data Science**
+VSB College of Engineering Technical Campus
+
+**CGPA:** `8.7 / 10`
+
+### 🎯 Current Direction
+
+I'm focused on strengthening my skills in:
+
+`Machine Learning` · `Data Analytics` · `SQL` · `Cloud` · `Deep Learning` · `MLOps`
+
+### 🟢 Availability
+
+**Open to Full-Time Opportunities & Internships**
+
+</td>
+
+<td width="35%" align="center">
+
+### ⚡ MY APPROACH
 
 ```text
-AI + Data + Software
-        ↓
-   Build Solutions
-        ↓
-  Analyze Results
-        ↓
- Create Real Impact
+   LEARN
+     ↓
+   BUILD
+     ↓
+  IMPROVE
+     ↓
+  REPEAT
+     ↓
+   IMPACT
 ```
 
-🎓 **B.Tech – Artificial Intelligence & Data Science**
-📈 **CGPA: 8.7 / 10**
-🟢 **Open to Full-Time Opportunities & Internships**
+<br/>
+
+**Turning data into
+meaningful solutions.**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🛠️ Technical Skills
+# 🎯 FOCUS AREAS
 
-### 👩‍💻 Programming Languages
+<table>
+<tr>
+<td width="50%">
 
-[**Python**](https://www.python.org/) ·
-[**Java**](https://www.java.com/) ·
-[**SQL**](https://www.mysql.com/) ·
-[**HTML**](https://developer.mozilla.org/en-US/docs/Web/HTML) ·
-[**CSS**](https://developer.mozilla.org/en-US/docs/Web/CSS)
+### 🤖 Artificial Intelligence
 
-### 🤖 AI & Machine Learning
+* Machine Learning
+* Deep Learning
+* AI Applications
+* Intelligent Automation
 
-[**Scikit-Learn**](https://scikit-learn.org/) ·
-**Machine Learning** ·
-**Data Preprocessing** ·
-**Feature Engineering** ·
-**Model Evaluation** ·
-**Deep Learning**
+</td>
+
+<td width="50%">
 
 ### 📊 Data & Analytics
 
-[**Pandas**](https://pandas.pydata.org/) ·
-[**NumPy**](https://numpy.org/) ·
-[**Plotly**](https://plotly.com/) ·
-[**Dash**](https://dash.plotly.com/) ·
-[**Power BI**](https://www.microsoft.com/en-us/power-platform/products/power-bi) ·
-[**MySQL**](https://www.mysql.com/)
+* Data Analytics
+* Data Visualization
+* Business Intelligence
+* Data Processing
 
-### 🌐 Development & Tools
+</td>
+</tr>
 
-[**Git**](https://git-scm.com/) ·
-[**GitHub**](https://github.com/) ·
-[**VS Code**](https://code.visualstudio.com/) ·
-[**Jupyter**](https://jupyter.org/) ·
-[**Flask**](https://flask.palletsprojects.com/) ·
-[**React**](https://react.dev/)
+<tr>
+<td width="50%">
 
-### ☁️ Currently Exploring
+### 🌐 Development
 
-[**AWS**](https://aws.amazon.com/) ·
-**MLOps** ·
-**Deep Learning** ·
-**Cloud Deployment** ·
-**Advanced SQL**
+* Python Development
+* Java Development
+* Flask APIs
+* React Applications
 
----
+</td>
 
-# 💼 Professional Experience
+<td width="50%">
 
-| Organization              | Role                        | Focus                       | Year |
-| ------------------------- | --------------------------- | --------------------------- | ---- |
-| **Forage**                | Data Science Job Simulation | BCG X Analytics             | 2026 |
-| **ServiceNow University** | Virtual Intern              | Cloud & Automation          | 2026 |
-| **CodTech IT Solutions**  | Data Analytics Intern       | Data Processing & Analytics | 2026 |
-| **Emglitz Technologies**  | IoT In-Plant Trainee        | Sensors & Embedded Systems  | 2024 |
+### ☁️ Technology
+
+* SQL & Databases
+* Cloud Technologies
+* MLOps
+* IoT Systems
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🚀 Featured Projects
+# 🛠️ TECHNICAL SKILLS
 
-### 🏠 Smart Home Automation
+<table>
+<tr>
+<td width="20%"><b>Programming</b></td>
+<td>
+
+<a href="https://www.python.org/">Python</a> · <a href="https://www.java.com/">Java</a> · <a href="https://www.mysql.com/">SQL</a> · <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a> · <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
+
+</td>
+</tr>
+
+<tr>
+<td><b>AI & ML</b></td>
+<td>
+
+<a href="https://scikit-learn.org/">Scikit-Learn</a> ·
+Machine Learning ·
+Deep Learning ·
+NLP ·
+Data Preprocessing ·
+Feature Engineering
+
+</td>
+</tr>
+
+<tr>
+<td><b>Data & Analytics</b></td>
+<td>
+
+<a href="https://pandas.pydata.org/">Pandas</a> · <a href="https://numpy.org/">NumPy</a> · <a href="https://plotly.com/">Plotly</a> · <a href="https://dash.plotly.com/">Dash</a> · <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi">Power BI</a> · <a href="https://www.mysql.com/">MySQL</a>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Development</b></td>
+<td>
+
+<a href="https://flask.palletsprojects.com/">Flask</a> · <a href="https://react.dev/">React</a> · <a href="https://git-scm.com/">Git</a> · <a href="https://github.com/">GitHub</a>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Tools</b></td>
+<td>
+
+<a href="https://code.visualstudio.com/">VS Code</a> · <a href="https://jupyter.org/">Jupyter Notebook</a>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Exploring</b></td>
+<td>
+
+<a href="https://aws.amazon.com/">AWS</a> ·
+MLOps ·
+Cloud Deployment ·
+Advanced SQL ·
+Deep Learning
+
+</td>
+</tr>
+</table>
+
+---
+
+# 💼 PROFESSIONAL EXPERIENCE
+
+<table>
+<tr>
+<td width="25%">
+
+### 🔵 Forage
+
+**Data Science Job Simulation**
+
+BCG X Analytics
+
+**2026**
+
+</td>
+
+<td width="25%">
+
+### 🟢 ServiceNow
+
+**Virtual Intern**
+
+Cloud & Automation
+
+**2026**
+
+</td>
+
+<td width="25%">
+
+### 🟠 CodTech
+
+**Data Analytics Intern**
+
+Data Processing & Analytics
+
+**2026**
+
+</td>
+
+<td width="25%">
+
+### 🟣 Emglitz
+
+**IoT In-Plant Trainee**
+
+Sensors & Embedded Systems
+
+**2024**
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🏠 Smart Home Automation
+
+IoT-based home automation system designed for **remote control, real-time monitoring, and energy management** using sensors, microcontrollers, and cloud connectivity.
+
+**Technologies**
+
+`IoT` · `Sensors` · `Cloud`
+
+<br/>
 
 <a href="https://github.com/Aiswarya1511/Smart_Home">
-View Project →
+<img src="https://img.shields.io/badge/View_Project-6C3BFF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-An IoT-based home automation system designed for **remote control, real-time monitoring, and energy management** using sensors, microcontrollers, and cloud connectivity.
+</td>
 
-**Technologies:** `IoT` · `Sensors` · `Microcontrollers` · `Cloud`
+<td width="50%">
 
----
+## 📊 Sales Analytics Engine
 
-### 📊 Sales Analytics Engine
+Interactive analytical dashboard that processes transactional sales data and transforms it into **visual insights and business intelligence**.
+
+**Technologies**
+
+`Python` · `Pandas` · `Plotly` · `Dash`
+
+<br/>
 
 <a href="https://github.com/Aiswarya1511/Sales_Data_Analysis">
-View Project →
+<img src="https://img.shields.io/badge/View_Project-6C3BFF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-A data analytics application that processes sales information and transforms transactional data into **interactive dashboards and actionable business insights**.
+</td>
 
-**Technologies:** `Python` · `Pandas` · `Plotly` · `Dash`
+</tr>
 
----
+<tr>
 
-### 🕵️ Fake File Detection
+<td width="50%">
+
+## 🕵️ Fake File Detection
+
+Machine-learning based security utility designed to identify potentially manipulated or suspicious files through automated analysis.
+
+**Technologies**
+
+`Python` · `Machine Learning` · `Security`
+
+<br/>
 
 <a href="https://github.com/Aiswarya1511/FAKE_FILE_DETECTION">
-View Project →
+<img src="https://img.shields.io/badge/View_Project-6C3BFF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-A machine-learning based security project focused on identifying potentially manipulated or suspicious documents through automated analysis.
+</td>
 
-**Technologies:** `Python` · `Machine Learning` · `Security`
+<td width="50%">
 
----
+## 🤖 Smart AI Web Portal
 
-### 🤖 Smart AI Web Portal
+AI-powered web platform integrating intelligent data-processing capabilities through a modern frontend and backend architecture.
+
+**Technologies**
+
+`Python` · `Flask` · `React` · `AI`
+
+<br/>
 
 <a href="https://github.com/Aiswarya1511/SMART_AI_WEBSITE">
-View Project →
+<img src="https://img.shields.io/badge/View_Project-6C3BFF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-An AI-powered web platform integrating intelligent data-processing features through a modern frontend and backend architecture.
+</td>
 
-**Technologies:** `Python` · `Flask` · `React` · `AI`
+</tr>
+</table>
 
 ---
 
-# 📈 GitHub Activity
+# 📈 GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Aiswarya1511&theme=tokyonight&hide_border=true" width="75%" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=Aiswarya1511&theme=tokyonight&hide_border=true&background=080D24&ring=7C5CFC&fire=FFB347&currStreakLabel=C9C2FF&sideLabels=C9C2FF&dates=9AA4C7" width="80%" alt="GitHub Contribution Streak"/>
 
 </div>
 
 <br/>
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiswarya1511&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
-
-</div>
+> **Consistency creates progress. Keep building. 🚀**
 
 ---
 
-# 🏆 Achievements
+# 🏆 ACHIEVEMENTS
 
-* 🥉 **3rd Prize – Sparkathon**, VSB College of Engineering Technical Campus
-* 🚀 Selected among the **Top 100** in a National-Level Space Quiz
-* 🎤 **Event Coordinator** for a college technical symposium
-* 🧩 Active problem solving through **LeetCode**
-* 🔥 **700+ day Duolingo streak** — consistency beyond coding
+<table>
+<tr>
+<td width="50%">
+
+* 🥉 **3rd Prize – Sparkathon**
+* 🚀 **Top 100 – National-Level Space Quiz**
+* 🎤 **Technical Symposium Event Coordinator**
+
+</td>
+
+<td width="50%">
+
+* 🧩 Active **LeetCode Problem Solving**
+* 🔥 **700+ Day Duolingo Streak**
+* 📚 Continuous technical learning
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 📜 Certifications
+# 📜 CERTIFICATIONS
 
-* **Microsoft Certified: Power BI Data Analyst Associate**
-* **Artificial Intelligence Fundamentals – Infosys Springboard**
-* **Python Programming for Data Science – Great Learning**
-* **Data Science Fundamentals – Saylor Academy**
-* **National Intellectual Property Awareness Mission – Government of India**
+| Certification                                            | Platform / Organization |
+| -------------------------------------------------------- | ----------------------- |
+| **Microsoft Certified: Power BI Data Analyst Associate** | Microsoft               |
+| **Artificial Intelligence Fundamentals**                 | Infosys Springboard     |
+| **Python Programming for Data Science**                  | Great Learning          |
+| **Data Science Fundamentals**                            | Saylor Academy          |
+| **National Intellectual Property Awareness Mission**     | Government of India     |
 
 ---
 
-# 🎯 Current Focus
+# 🎯 CURRENTLY LEARNING
 
 ```text
-01  Strengthening Python & Java
-02  Improving SQL & Data Structures
-03  Building practical Machine Learning projects
-04  Developing Power BI dashboards
-05  Exploring Deep Learning
-06  Learning AWS & Cloud Deployment
-07  Understanding MLOps
-08  Contributing to Open Source
+01  ████████████████████  Python & Java
+02  ██████████████████░░  SQL & Data Structures
+03  ████████████████░░░░  Machine Learning
+04  ███████████████░░░░░  Power BI & Analytics
+05  ████████████░░░░░░░░  Deep Learning
+06  ██████████░░░░░░░░░░  AWS & Cloud
+07  ████████░░░░░░░░░░░░  MLOps
 ```
 
 ---
 
-# 💡 Areas of Interest
+# 💡 AREAS OF INTEREST
 
 <div align="center">
 
-| 🤖 Artificial Intelligence |    📊 Data Science    | 🌐 Software Development |
-| :------------------------: | :-------------------: | :---------------------: |
-|      Machine Learning      |     Data Analytics    |        Flask APIs       |
-|        Deep Learning       |   Data Visualization  |    React Applications   |
-|       AI Applications      |        Power BI       |     AI Web Platforms    |
-|         Automation         | Business Intelligence |       Data Systems      |
+`Machine Learning`   `Data Analytics`   `AI Applications`
+
+`Data Visualization`   `Cloud`   `MLOps`
+
+`Web Development`   `Automation`   `Data Systems`
 
 </div>
 
 ---
 
-# 📫 Let's Connect
+# 📫 LET'S CONNECT
 
 <div align="center">
 
 <a href="mailto:aiswarya06211@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/aiswarya1511">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Aiswarya1511">
+<img src="https://img.shields.io/badge/GitHub-Aiswarya1511-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://leetcode.com/u/RAiswarya/">
@@ -257,7 +457,7 @@ An AI-powered web platform integrating intelligent data-processing features thro
 
 ### ⭐ Thanks for visiting my profile!
 
-**Feel free to explore my repositories and connect with me.**
+**Let's build something meaningful with data and AI.**
 
 </div>
 
@@ -265,6 +465,6 @@ An AI-powered web platform integrating intelligent data-processing features thro
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D24,50:151A45,100:6C3BFF&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
